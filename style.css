@@ -17,7 +17,7 @@ body {
     margin: auto;
 }
 
-/* Header start */
+/* ! Header start */
 
 header {
     height: 100px;
@@ -74,9 +74,9 @@ nav .menu .menu-button:hover {
     color: white;
 }
 
-/* Header end */
+/* ! Header end */
 
-/* header responsive start */
+/* ! header responsive start */
     @media(max-width:576px){
         .container {
             width: 100%;
@@ -93,4 +93,4 @@ nav .menu .menu-button:hover {
         }
     }
         
-/* header responsive end */
+/* ! header responsive end */
